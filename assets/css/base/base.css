@@ -1,0 +1,16 @@
+@import url(_variaveis.css);
+@import url(_reset.css);
+@import url(../componentes/1-header.css);
+@import url(../componentes/2-banner.css);
+@import url(../componentes/3-carrosselECard.css);
+@import url(../../css/componentes/4-topicos.css);
+@import url(../../css/componentes/5-contato.css);
+@import url(../../css/componentes/6-rodape.css);
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 1rem;
+    font-weight: 400;
+}
+
